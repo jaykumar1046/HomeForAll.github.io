@@ -204,3 +204,5 @@ whitelist:
   - jekyll-include-cache
 words_per_minute: 200
 yandex_site_verification: ~
+
+theme: jekyll-theme-cayman
